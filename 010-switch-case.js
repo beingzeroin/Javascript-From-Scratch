@@ -1,4 +1,4 @@
-var t = "alpha";
+var t = "beta";
 
 switch(t){
     case "alpha":
@@ -9,4 +9,5 @@ switch(t){
         break;
     default:
         console.log("this is default");
+        break;
 }
